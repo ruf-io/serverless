@@ -140,8 +140,9 @@ These points are demonstrated in the examples below.
 
 * There are a few [additional configuration options](CONFIG.md) that apply to `Pool` and `Client` here.
 
-
+<p id="run-on-node">&nbsp;</p>
 ## Example: Node.js with `Pool.connect()`
+
 
 In Node.js, it takes two lines to configure WebSocket support. For example:
 
